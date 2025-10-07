@@ -35,7 +35,8 @@ opt.termguicolors = true
 opt.signcolumn = "yes"
 
 -- 设置主题
-vim.cmd[[colorscheme nord]]
+-- 若需要主题的可选配置，可在下行上方调用 require("citruszest").setup({...})
+vim.cmd[[colorscheme citruszest]]
 
 vim.defer_fn(function()
   vim.api.nvim_set_hl(0, "Cursor", { fg = "#000000", bg = "#85EEA7" })
