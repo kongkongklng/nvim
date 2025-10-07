@@ -4,7 +4,7 @@ toggleterm.setup {
         size = 20,
         start_in_insert = true,
         open_mapping = [[<A-p>]],
-        shell = '"C:\\Users\\Mayn\\AppData\\Local\\Programs\\nu\\bin\\nu.exe"',
+        shell = '"C:\\Program Files\\nu\\bin\\nu.exe"',
         direction = 'float',
         hide_numbers = true,
         shade_filetypes = {},
