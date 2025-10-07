@@ -1,0 +1,497 @@
+version | get executable
+exit
+ls
+$nu.config-path
+code $nu.config-path
+exit
+x
+ls
+$env.config = ($env.config | upsert shell_integration.osc133 false)
+ping ls
+vim
+nvimm
+winget install Neovim.Neovim
+nvim
+ls
+ss
+s
+ls
+nvim
+ls
+ps
+pd
+winget install -e --id MSYS2.MSYS2
+gcc
+ls
+vim
+nvim
+cd
+ls
+cd
+cd /
+ls
+la
+pwd
+git init
+mkdir main.py
+ls
+ls-a
+ls -la
+git commit -m "初始化练习python"
+git log
+git add .
+git 
+git commi
+git commit -m "初始化练习python"
+git log
+git add .
+git commit -m "初始化练习pyhon"
+git log
+touch main.py
+ls
+git add .
+git commit -m "初始化练习python"
+ls
+git log
+pycharm 
+pwd
+ls
+nvim
+mvo,
+nvim
+cd C:\Users\kongklng\AppData\Local\nvim\lua
+ls
+cd core\
+ls
+nvim keymap.lua
+nvim
+winget install MSYS2.MSYS2
+gcc
+gcc -version
+gcc --version
+powershell
+gcc
+gcc --version
+exit
+ls
+cd C:\Users\kongklng\AppData\Local\nvim
+ls
+nvim init.lua
+winget install LuaLanguageServer
+code
+ls
+z
+nvim
+cd C:\Users\kongklng\.config
+ls
+cd
+ls
+slsdsds
+la
+ls
+nvim
+ls
+cd AppData\
+ls
+cd Local\
+ls
+cd nvim
+ls
+cd ..
+nvim nvim
+ls
+ipconfig
+ipconfig.exe 
+ls
+winget uninstall Neovim.Neovim
+gcc
+gcc -version
+ls
+pwd
+cd AppData\
+ls
+cd Local\
+ls
+cd nvim
+cd ..
+ls
+pwd
+cd AppData\local\nvim
+cd ..
+ls
+local
+cd local
+nvim
+nvim nvim
+ls
+cd local
+pwd
+ls
+cd local
+cd AppData\Local
+code C:\Users\kongklng\AppData\Local\nvim
+which nu
+ls
+node -v
+npm -v
+ls
+python main.py
+╭╴  Administrator via  master at D:\pythonproject\test   14:35 via   3.13.3                    
+╰─
+╭╴  Administrator via  master at D:\pythonproject\test   14:35 via   3.13.3                    
+╰─
+nvim
+nvim C:\Users\kongklng\AppData\Local\nvim
+nvim D:\clash_peizhi
+winget install sxyazi.yazi
+# Install the optional dependencies (recommended):
+winget install Gyan.FFmpeg 7zip.7zip jqlang.jq oschwartz10612.Poppler sharkdp.fd BurntSushi.ripgrep.MSVC junegunn.fzf ajeetdsouza.zoxide ImageMagick.ImageMagick
+yazi
+wsl
+docker
+ls
+vscode
+code
+gg
+ls
+start /wait "" Miniforge3-Windows-x86_64.exe /InstallationType=JustMe /RegisterPython=0 /S /D=%UserProfile%\Miniforge3
+minifor
+conda
+C:\Users\kongklng\
+cd C:\Users\kongklng\
+ls
+cd C:\Users\kongklng\
+# PowerShell
+& C:\Users\kongklng\miniforge3\Scripts\conda.exe "shell.powershell" hook | Out-String | Invoke-Expression
+conda activate base
+conda
+nvim
+ls
+conda
+nvim
+$env:ALL_PROXY="socks5://127.0.0.1:10808"
+ls
+cd D:\pythonproject\test
+ls
+cd ..
+cd D:\pythonproject\test
+cd ..
+cd
+;s
+ls
+proxy
+cd C:\Users\kongklng\Desktop\就业平台操作
+nvim ws.py
+nvim
+ld
+pwd
+cd
+cc
+c
+nihao
+ls
+ls
+ayzi
+config path
+help config path
+config path --config
+path
+ls
+exit
+pr
+npr
+pr
+git config --get --global http.proxy
+git config --get --global https.proxy
+ls
+你好
+ls
+ls
+ipconfig.exe 
+netstat -ano | findstr 10808
+Get-NetFirewallRule | findstr 10808
+cd D:\pythonproject\pythontest
+cd ..
+p
+pr
+ls
+touch text.py
+cd D:\pythonproject\pythontest
+cd ..
+ls
+cd D:\pythonproject\xiangmu_1
+cd C:\Users\kongklng\Desktop\就业平台操作
+ld
+cd C:\Users\kongklng\Desktop\就业平台操作
+node --version
+╭╴  Administrator at ~   07:13 took  0s
+╰─ node --version
+v22.20.0
+pr
+nvim C:\Users\kongklng\Desktop\就业平台操
+C:\Users\kongklng\Desktop\就业平台操
+nvim C:\Users\kongklng\Desktop\就业平台操作
+cd 「开始」菜单
+cd C:\Users\kongklng\Desktop\就业平台操作
+ls
+cd D:\pythonproject
+ls
+pr
+ld
+ls
+cd kongklng\
+ls
+cd .config\
+l
+sls
+ls
+rm -f ls
+ls
+rm -f word\
+ls
+cd D:\
+;s
+ls
+cd pythonproject\
+ls
+cd D:
+cd D:\
+ls
+cd pythonproject\
+ls
+python main.py
+cd D:\
+ls
+cd pythonproject\
+ls
+cd D:\
+ls
+cd pythonproject\
+ls
+cd word\
+ls
+python ls.py
+cd
+pwd
+cd D:\
+cd pythonproject\
+ls
+cd pythontest\
+git init
+ls
+git add .
+git commit -m "练习"
+lsd
+ls
+ls -ld
+ls -lad
+nvim pythontest\
+nvim
+pr
+cd D:\
+ls
+cd pythonproject\
+ls
+cd D:\
+cd pythonproject\
+ls
+cs
+csc
+ls
+git init
+git add .
+git commit -m "lianxi"
+ls
+git log
+ls -lad
+cd D:\
+cd pythonproject\
+ls
+conda
+ls
+mamba
+mamba
+mamba.bat  create -n .even python=3.11.2
+ls -lad
+mamba.bat  create -n .even python=3.11.2
+mamba activate .enven
+mamba create -n pppp python=3.8
+mamba activate pppp
+ls -lad
+mamba run -n pppp mycommand
+python --version
+mamba env list
+pr
+mamba activate .even
+python --version
+mamba env list
+mamba init powershell
+ls
+ls -lad
+python --version
+mamba init nushell
+ls D:\miniforge\etc\profile.d\
+mamba activate .even
+python --version
+pr
+npr
+activate-conda
+mamba activate .enven
+mamba activate pppp
+python --version
+mamba env list
+mamba activate .even
+where python   # Windows 查看当前 python 的
+mamba activate .even
+python --version
+mamba env list
+mamba activate pppp
+mamba env list
+mamba activate-env pppp
+mamba env list
+activate-env pppp
+activate-conda
+mamba activate-env pppp
+mamba env list
+activate-conda
+activate-env pppp
+python --version
+mamba env list
+python --version
+mamba env list
+conda activate pppp
+conda env list
+conda init
+conda env list
+conda activate pppp
+python --version
+mamba env list
+mamba shell init --shell nu
+python --version
+eval "$(mamba.exe shell hook --shell nu)"
+mamba shell reinit --shell nu
+pr
+npr
+cd D:\
+ls
+ls -lad
+pr
+npr
+winget install --id=astral-sh.uv  -e
+uv
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+uv
+ls
+uv
+cd D:\
+ls
+cd pythonproject\
+ls
+touch hello.py
+mkdir enen
+ls
+python --version
+conda activate pppp
+uv
+uv init
+uv init -p 3.12
+la -la
+ls -la
+cat pyproject.toml
+ls
+touch hello.py
+uv init -p 3.12
+git
+git log
+ls
+python --version
+powershell
+ls
+ls -lad
+python --version
+uv init -p 3.10
+ls -la
+uv run main.py
+uv add requests
+ls
+python
+ls
+ls -lsd
+uv run main.py
+uv python
+uv run python
+cd D:\
+ls
+cd pythonproject\
+;s
+ls
+uv tree
+tree
+ls
+tree
+ls -lsd
+touch ls.py
+cd  C:\Users\kongklng\AppData\Local
+pr
+git -b kongklng clone https://github.com/kongkongklng/nvim.git
+git clone -b kongklng https://github.com/kongkongklng/nvim.git
+nvim nvim
+ls
+ls -lsd
+cd D:\
+ls
+cd pythonproject\
+ls
+cd pdd\
+ls
+cd ..
+cd C:\Users\kongklng\AppData\Local\nvim
+ls
+cd ..
+cd D:\
+ls
+cd pythonproject\
+;s
+ls
+cd ..
+ls
+mkdir lvv
+ls
+cd lvv\
+touch test.py
+cd D:\pythonproject\nvim_wezterm_nushell
+ls
+git clone -b kongklng https://github.com/kongkongklng/nvim.git
+git log
+git branch wezterm
+cd nvim\
+ls
+git log
+git branch wezterm_kongklng
+git branch
+git checkout wezterm_kongklng
+git branch
+ls
+git add .wezterm.lua
+git commit -m "添加wezterm配置"
+git push
+git push --set-upstream origin wezterm_kongklng
+npr
+git push --set-upstream origin wezterm_kongklng
+npr
+pr
+npr
+git push --set-upstream origin wezterm_kongklng
+$nushell
+$nu
+cd C:\Users\kongklng\AppData\Roaming\nushell\
+ls
+cd ..
+nvim nushell
+ls
+;s
+ls
+cd nushell
+ls
+cd ..
+cp nushell D:\pythonproject\nvim_wezterm_nushell\nvim
